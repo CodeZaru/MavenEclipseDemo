@@ -26,6 +26,6 @@ public class BMI
            System.out.println("Normal weight.");
         else if (BMI < 30)
            System.out.println("Overweight.");
-        else System.out.println("Obese.");
+        else System.out.println("Obese. Fix ASAP for your health's sake!");
     }
 }
